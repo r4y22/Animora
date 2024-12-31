@@ -1,0 +1,35 @@
+#background {
+    -fx-background-image: url("/Assets/Background/background_basic.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+#volumeButton {
+    -fx-background-color: transparent; 
+    -fx-padding: 0; 
+    -fx-border-color: transparent; 
+}
+
+#volumeSlider {
+    -fx-pref-width: 150px; 
+    -fx-pref-height: 10px; 
+    -fx-background-color: transparent; 
+}
+
+#volumeSlider .track {
+    -fx-background-color: linear-gradient(to right, #ff7f50, #ff4500); 
+    -fx-background-radius: 5; 
+    -fx-padding: 2px;
+}
+
+
+#volumeSlider .thumb {
+    -fx-background-color: #ff4500; 
+    -fx-background-radius: 50%; 
+    -fx-padding: 5px;
+}
+
+#tutorialButton {
+    -fx-background-color: transparent;
+}

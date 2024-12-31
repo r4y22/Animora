@@ -1,0 +1,60 @@
+{
+  "parentalControls": {
+    "sessionCount": 0,
+    "allowedTimes": [
+      {
+        "endHour": 2,
+        "startHour": 1,
+        "day": "Monday",
+        "startMinute": 0,
+        "endMinute": 0
+      },
+      {
+        "endHour": 0,
+        "startHour": 0,
+        "day": "Thursday",
+        "startMinute": 0,
+        "endMinute": 0
+      },
+      {
+        "endHour": 0,
+        "startHour": 0,
+        "day": "Friday",
+        "startMinute": 0,
+        "endMinute": 0
+      },
+      {
+        "endHour": 0,
+        "startHour": 0,
+        "day": "Sunday",
+        "startMinute": 0,
+        "endMinute": 0
+      },
+      {
+        "endHour": 0,
+        "startHour": 0,
+        "day": "Wednesday",
+        "startMinute": 0,
+        "endMinute": 0
+      },
+      {
+        "endHour": 0,
+        "startHour": 0,
+        "day": "Tuesday",
+        "startMinute": 0,
+        "endMinute": 0
+      },
+      {
+        "endHour": 0,
+        "startHour": 0,
+        "day": "Saturday",
+        "startMinute": 0,
+        "endMinute": 0
+      }
+    ],
+    "limitationsEnabled": false,
+    "totalPlayTime": 0,
+    "averagePlayTime": 0,
+    "playTimeReportEnabled": false
+  }
+}

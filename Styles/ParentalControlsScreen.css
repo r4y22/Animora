@@ -1,0 +1,42 @@
+#background {
+    -fx-background-image: url("/Assets/Background/background_basic.jpg");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-scale-x: 1; 
+    -fx-scale-y: 1; 
+    -fx-transition: transform 0.2s ease; 
+}
+
+.button:hover {
+    -fx-scale-x: 1.2; 
+    -fx-scale-y: 1.2; 
+}
+
+.toggle-button {
+    -fx-background-color: lightgray;
+    -fx-text-fill: black;
+}
+
+.toggle-button:selected {
+    -fx-background-color: lightgreen;
+    -fx-text-fill: white;
+}
+
+#customToggle {
+    -fx-background-color: #ff0000;
+
+}
+
+#customToggle:selected {
+    -fx-background-color: #00ff00;
+}
+
+
+
+

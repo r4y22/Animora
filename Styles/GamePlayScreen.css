@@ -1,0 +1,12 @@
+.root {
+    -fx-background-image: url("/Assets/Background/pegasus_background2.gif");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+#inventory {
+    -fx-padding: 10;
+    -fx-background-color: rgba(0, 0, 0, 0.6);
+    -fx-border-color: rgb(243, 187, 44);
+    -fx-border-width: 4px;
+}

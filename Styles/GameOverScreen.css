@@ -1,0 +1,19 @@
+.root{
+    -fx-background-image: url("/Assets/Background/dragon_background.jpg"); 
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+
+}
+
+.button {
+    -fx-scale-x: 1; 
+    -fx-scale-y: 1; 
+    -fx-transition: transform 0.2s ease; 
+    -fx-background-color: transparent; 
+    -fx-border-color: transparent; 
+}
+
+.button:hover {
+    -fx-scale-x: 1.2; 
+    -fx-scale-y: 1.2; 
+}

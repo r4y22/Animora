@@ -1,0 +1,45 @@
+# Ignore IDE-specific files
+.vscode/
+.vscode/launch.json
+.vscode/settings.json
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+.classpath
+.project
+*.log
+*.tmp
+/Animation.class
+/Button.class
+/ChoosePetScreen.class
+/Component.class
+/Dragon.class
+/Font.class
+/Food.class
+/Game.class
+/GameEndScreen.class
+/GameOverScreen.class
+/GamePlayScreen.class
+/GameScreen.class
+/GameStartScreen.class
+/Grid.class
+/Image.class
+/Inventory.class
+/Item.class
+/Label.class
+/Main.class
+/MenuScreen.class
+/Music.class
+/ParentalControlScreen.class
+/Pegasus.class
+/Pet.class
+/Phoenix.class
+/Player.class
+/Point.class
+/SettingScreen.class
+/TutorialScreen.class
+/Controller.class
+/LoginScreen.class

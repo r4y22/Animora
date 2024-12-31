@@ -1,0 +1,1 @@
+This folder contains the background images that will be used for ANIMORA. 
